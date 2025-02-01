@@ -1,5 +1,5 @@
 # boston-crime-clustering
-This repository contains an implementation of Agglomerative Hierarchical Clustering on the Boston Crime Dataset. The project analyzes crime patterns by clustering similar incidents together and evaluates the clustering performance using the Silhouette Score.
+
 This project applies Agglomerative Hierarchical Clustering to the Boston Crime Dataset to analyze crime patterns and similarities. The goal is to group crime incidents based on their features and visualize the clustering results.
 
 How It Works
